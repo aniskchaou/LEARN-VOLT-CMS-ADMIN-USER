@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-25 17:40+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: learnpress-students-list.php:50
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-students-list.php:51
+msgid "LearnPress Students List"
+msgstr ""
+
+#: learnpress-students-list.php:53
+msgid "LearnPress"
+msgstr ""
+
+#: inc/load.php:81 inc/load.php:106 inc/widgets.php:82
+msgid "Students List"
+msgstr ""
+
+#: inc/load.php:84
+msgid "Hide the students list in each individual course."
+msgstr ""
+
+#: inc/shortcodes.php:54 inc/widgets.php:70
+msgid "Please enter Course ID."
+msgstr ""
+
+#: inc/shortcodes.php:70 templates/students-list.php:119
+msgid "Course ID invalid, please check it again."
+msgstr ""
+
+#: inc/shortcodes.php:75 inc/widgets.php:57
+msgid "Course: "
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Learnpress - Students List"
+msgstr ""
+
+#: inc/widgets.php:26
+msgid "Display students list of course."
+msgstr ""
+
+#: inc/widgets.php:88
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:94
+msgid "Course ID:"
+msgstr ""
+
+#: inc/widgets.php:99
+msgid "Course IDs separated by commas (,)"
+msgstr ""
+
+#: inc/widgets.php:103
+msgid "Number students to show:"
+msgstr ""
+
+#: inc/widgets.php:110
+msgid "Filter:"
+msgstr ""
+
+#: templates/students-list.php:33
+msgid "All"
+msgstr ""
+
+#: templates/students-list.php:34
+msgid "In Progress"
+msgstr ""
+
+#: templates/students-list.php:35
+msgid "Finished"
+msgstr ""
+
+#: templates/students-list.php:40
+msgid "Student filter"
+msgstr ""
+
+#: templates/students-list.php:94
+#, php-format
+msgid "Passing condition: %s%%"
+msgstr ""
+
+#: templates/students-list.php:105
+#, php-format
+msgid "one student enrolled."
+msgid_plural "%s students enrolled."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/students-list.php:110
+#, php-format
+msgid "One student enrolled."
+msgid_plural "%s students enrolled."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/students-list.php:112
+msgid "No student enrolled."
+msgstr ""

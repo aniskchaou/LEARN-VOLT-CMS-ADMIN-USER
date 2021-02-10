@@ -1,0 +1,282 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-20 02:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/learnpress-content-drip.php:51
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/learnpress-content-drip.php:52
+msgid "LearnPress Content Drip"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/learnpress-content-drip.php:54
+msgid "LearnPress"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/functions.php:38
+msgid "1. Specific time after enrolled course"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/functions.php:39
+msgid "2. Open the course items sequentially"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/functions.php:40
+msgid "3. Open item bases on prerequisite items"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:203
+msgid "Are you sure you want to reset drip items."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:204
+msgid "After enrolled course"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:232
+msgid "Content drip"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:238
+msgid "Enable"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:241
+msgid "All settings in items of this course will become locked if turn off."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:243
+msgid "No"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:244
+msgid "Yes"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:249
+msgid "Drip type"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:255
+msgid "<strong>Drip type:</strong>"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:256
+msgid "1. Open course item after enrolled course specific time."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:257
+msgid ""
+"2. Open lesson #2 after completed lesson #1, open lesson #3 after completed "
+"lesson #2, and so on..."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:258
+msgid "3. Open course item after completed prerequisite items."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:259
+msgid "Settings"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:289
+msgid "Drip Items"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/load.php:349
+msgid "Settings saved"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/class-lp-email-drip-item-available.php:26
+msgid "Drip Item Available"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:22
+msgid "minute"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:23
+msgid "hour"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:24
+msgid "day"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:25
+msgid "week"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:32
+#, php-format
+msgid ""
+"Sorry! You can not view this item right now. It will become available on "
+"<strong>%s</strong>."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:36
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:57
+msgid ""
+"Sorry! You can not view this item right now. It will become available when "
+"you completed "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:52
+msgid "and "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:52
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:67
+msgid "after "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:52
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:67
+msgid "(s)"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:52
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:67
+msgid "on "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:67
+msgid " and "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:76
+#, php-format
+msgid ""
+"Sorry! You can not view this item right now. It will become available when "
+"you complete <strong><a href=\"%s\">%s</a></strong> %s. <br>"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:82
+msgid " and after "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/templates/restrict-content.php:85
+msgid "Complete time: "
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:50
+msgid "Start"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:54
+msgid "Step"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:58
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:80
+msgid "Type"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:68
+msgid "Apply"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:70
+msgid "Close"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:79
+msgid "Item name"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:81
+msgid "Prerequisite"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:82
+msgid "Delay access"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:127
+msgid "Update"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:129
+msgid "Reset"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:165
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/views/drip-items.php:30
+msgid "Edit"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:170
+msgid "View"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:218
+msgid "Immediately"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:219
+msgid "After..."
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:220
+msgid "Specific date"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/class-drip-items-list-table.php:265
+msgid "Unknown Type"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/views/drip-items.php:14
+msgid "Invalid course"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/views/drip-items.php:25
+msgid "Drip items"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/views/drip-items.php:27
+msgid "Course:"
+msgstr ""
+
+#: svn/ThimPress/Plugins/learnpress-addons/3.x.x/learnpress-content-drip/inc/admin/views/drip-items.php:32
+msgid "- Drip type: "
+msgstr ""
+
+#. Name of the plugin
+msgid "LearnPress - Content Drip"
+msgstr ""
+
+#. Description of the plugin
+msgid "Drip content of course."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""

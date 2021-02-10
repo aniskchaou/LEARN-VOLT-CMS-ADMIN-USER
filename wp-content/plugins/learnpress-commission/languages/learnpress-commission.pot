@@ -1,0 +1,403 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-24 15:51+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: learnpress-commission.php:51
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-commission.php:52
+msgid "LearnPress Instructor Commission"
+msgstr ""
+
+#: learnpress-commission.php:54
+msgid "LearnPress"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:24
+msgid "Commission"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:36
+msgid "Settings"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:37
+msgid "Managing"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:38
+msgid "Withdrawal Paypal"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:53
+#: inc/class-lp-commission-settings.php:137
+msgid "Enable"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:54
+msgid "Enable commission feature."
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:60
+msgid "Commission percent"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:61
+msgid "Commission percent."
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:79
+#, php-format
+msgid "Min (%s)"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:80
+msgid "Minimum amount allow customer withdrawals"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:97
+msgid "Support offline payment"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:98
+msgid "Enable/Disable offline payment."
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:138
+msgid "Enable/Disable withdrawal via Paypal."
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:144
+msgid "Sandbox Mode"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:145
+msgid "Enable/Disable Sandbox mode."
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:161
+msgid "Client ID"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:162
+msgid ""
+"Client ID is generated in PayPal's REST API apps. You can create REST API "
+"apps at https://developer.paypal.com/developer/applications/"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:178
+msgid "Secret"
+msgstr ""
+
+#: inc/class-lp-commission-settings.php:179
+msgid ""
+"Secret Key is generated in PayPal's REST API apps. You can create REST API "
+"apps at https://developer.paypal.com/developer/applications/"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:137
+#: inc/class-lp-withdraw-post-type.php:65
+msgid "Withdrawals"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:193
+msgid "Verify nonce is wrong!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:204
+msgid "Verify password is wrong!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:214
+msgid "Please enter a paypal email account!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:223
+#: inc/class-lp-request-withdrawal.php:293
+msgid "Something went wrong!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:236
+msgid "You do not have enough money to withdraw!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:245
+msgid "The amount can not be zero!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:255
+msgid "The amount is too small!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:265
+msgid "Please choose a payment method!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:280
+msgid "Create the withdrawal request failed!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:301
+msgid "Withdrawals request is successful!"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:416
+msgid "Offline"
+msgstr ""
+
+#: inc/class-lp-request-withdrawal.php:450
+msgid "Paypal"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:59
+msgctxt "Post Type General Name"
+msgid "Withdrawals"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:60
+msgctxt "Post Type Singular Name"
+msgid "Withdrawal"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:61
+#: inc/class-lp-withdraw-post-type.php:87 templates/withdrawals.php:77
+msgid "Withdrawal"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:62
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:63
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:64
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:66
+msgid "Add New Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:67
+msgid "Add New"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:68
+msgid "New Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:69
+msgid "Edit Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:70
+msgid "Update Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:71
+msgid "View Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:72
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:73
+msgid "Not found"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:74
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:75
+msgid "Featured Image"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:76
+msgid "Set featured image"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:77
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:78
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:79
+msgid "Insert into item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:80
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:81
+msgid "Items list"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:82
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:83
+msgid "Filter items list"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:88
+msgid "Withdraw"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:128
+msgid "Publisher"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:199
+msgid "Details"
+msgstr ""
+
+#: inc/class-lp-withdraw-post-type.php:200
+msgid "Withdraw Actions"
+msgstr ""
+
+#: inc/class-lp-withdrawal.php:186 inc/admin/views/withdraw-actions.php:24
+msgid "Pending"
+msgstr ""
+
+#: inc/class-lp-withdrawal.php:187 inc/admin/views/withdraw-actions.php:26
+msgid "Complete"
+msgstr ""
+
+#: inc/class-lp-withdrawal.php:188 inc/admin/views/withdraw-actions.php:25
+msgid "Reject"
+msgstr ""
+
+#: inc/load.php:144
+msgid "Course Commission"
+msgstr ""
+
+#: inc/load.php:148
+msgid "Your Commission"
+msgstr ""
+
+#: inc/admin/class-lp-commission-withdrawal-method-paypal.php:29
+msgid "You have a payment"
+msgstr ""
+
+#: inc/admin/class-lp-commission-withdrawal-method-paypal.php:30
+msgid "Payment for withdrawal"
+msgstr ""
+
+#: inc/admin/views/withdraw-actions.php:35
+msgid "Delete Permanently"
+msgstr ""
+
+#: inc/admin/views/withdraw-actions.php:37
+msgid "Move to Trash"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:36 templates/withdrawals.php:51
+msgid "ID"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:37 templates/withdrawals.php:54
+msgid "Time request"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:38 templates/withdrawals.php:55
+msgid "Time resolve"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:39
+#: templates/withdrawals-form-paypal.php:34 templates/withdrawals.php:52
+msgid "Amount"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:40 templates/withdrawals.php:56
+msgid "Method"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:41 templates/withdrawals.php:57
+msgid "Status"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:59
+msgid "Username"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:61
+msgid "Password"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:66
+msgid "Pay On"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:69
+msgid "Pay Off"
+msgstr ""
+
+#: inc/admin/views/withdraw-details.php:80
+msgid "Logs"
+msgstr ""
+
+#: templates/withdrawals-form-paypal.php:18
+msgid "Paypal Withdrawal"
+msgstr ""
+
+#: templates/withdrawals-form-paypal.php:22
+msgid "Enter your password"
+msgstr ""
+
+#: templates/withdrawals-form-paypal.php:28
+msgid "Paypal email account"
+msgstr ""
+
+#: templates/withdrawals-form-paypal.php:44
+msgid "Request all"
+msgstr ""
+
+#: templates/withdrawals-form-paypal.php:49
+msgid "Submit request"
+msgstr ""
+
+#: templates/withdrawals.php:32
+msgid "Your commission"
+msgstr ""
+
+#: templates/withdrawals.php:34
+msgid "Total:"
+msgstr ""
+
+#: templates/withdrawals.php:46
+msgid "Withdrawal History"
+msgstr ""
+
+#: templates/withdrawals.php:79
+msgid "You have not enough money to withdraw"
+msgstr ""

@@ -1,0 +1,86 @@
+/* Archive courses */
+.learn-press-courses .course-instructor {
+    margin-bottom: 20px;
+}
+
+.single-lp_course .course-summary .course-students {
+    padding-top: 10px;
+}
+
+.single-lp_course .course-summary .course-students-list .students-list-title {
+    float: left;
+}
+
+.single-lp_course .course-summary .course-students-list .filter-students {
+    float: right;
+}
+
+.course-students-list {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.course-students-list .students {
+    clear: both;
+    list-style-type: none;
+    padding: 20px 0;
+}
+
+.course-students-list .students .user-info {
+    margin-bottom: 15px;
+}
+
+.course-students-list .students li {
+    margin-right: 10px;
+}
+
+.course-students-list .students li.user-login {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.course-students-list .students li .user-info {
+    position: relative;
+    float: left;
+    width: 150px;
+}
+
+.course-students-list .students li .user-info a {
+    position: absolute;
+    margin-left: 5px;
+    bottom: 0;
+}
+
+.course-students-list .students li .learn-press-course-results-progress {
+    width: calc(100% - 200px);
+    float: right;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+
+.course-students-list .students li .learn-press-course-results-progress .course-progress {
+    width: 100%;
+}
+
+.course-students-list .students li .learn-press-course-results-progress .course-progress .lp-course-progress {
+    margin-top: -5px;
+}
+
+.course-students-list .additional-students {
+    clear: both;
+    margin-bottom: 0;
+}
+
+.field-description {
+    margin-top: -10px;
+}
+
+.sidebar .students-enrolled {
+    margin-bottom: 10px;
+}
+
+.sidebar .lp-course-status {
+    clear: both;
+}

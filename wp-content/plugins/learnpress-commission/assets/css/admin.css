@@ -1,0 +1,51 @@
+#id {
+    width: 100px;
+}
+
+#value {
+    width: 200px;
+}
+
+#active {
+    width: 80px;
+}
+
+.tp_notification {
+    display: block;
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 40px;
+}
+
+/* Edit post */
+#post-body-content {
+    display: none;
+}
+
+#withdraw_details .widefat {
+    margin-bottom: 20px;
+}
+
+#withdraw_details .paid {
+    margin: 30px 0 20px 0;
+}
+
+#withdraw_details .log h2 {
+    padding: 0 0 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#withdraw_details .check_user_pass {
+    margin-bottom: 20px;
+}
+
+#withdraw_details #lp_paid {
+    height: 28px;
+    margin-left: 20px;
+}
+
+#withdraw_details .misc-pub-section {
+    padding-left: 0;
+}

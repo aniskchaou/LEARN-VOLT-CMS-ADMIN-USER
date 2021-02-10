@@ -1,0 +1,13 @@
+.lp-overlay {
+	.modal-header{
+		position: relative;
+		.close{
+			background: transparent!important;
+			padding: 0;
+			font-size: 1.6em;
+			position: absolute;
+			top: 5px;
+			right: 10px;
+		}
+	}
+}

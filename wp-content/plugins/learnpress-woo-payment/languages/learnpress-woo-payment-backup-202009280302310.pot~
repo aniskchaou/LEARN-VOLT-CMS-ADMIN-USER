@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-28 02:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: learnpress-woo-payment/learnpress-woo-payment.php:97
+msgid ""
+"Please active <strong>Learnpress version 3.2.7.6 or later</strong> before "
+"active <strong>LearnPress - Paid Membership Pro Integration</strong>"
+msgstr ""
+
+#: learnpress-woo-payment/learnpress-woo-payment.php:105
+msgid ""
+"Please active plugin <strong>Woocomerce</strong> before active <strong>"
+"plugin LearnPress - Paid Membership Pro Integration</strong>"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:17
+msgid "WooCommerce Payment"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:18
+msgid "Make a payment with WooCommerce payment methods."
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:118
+#, php-format
+msgid "This payment is %s, please click the link beside to enable/disable."
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:138
+msgid "Enable"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:144
+msgid ""
+"If <strong>WooCommerce Payment</strong> is enabled you can not use other "
+"payments provided by LearnPress"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:147
+msgid "Redirect to Woo checkout"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:152
+msgid "Enable to redirect to page Checkout when add to cart"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:167
+msgid "WooCommerce Payments"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-gateway-woo.php:172
+msgid ""
+"List of all available payment gateways installed and activated for "
+"WooCommerce. Click on a payment method to go to <strong>WooCommerce "
+"Payment</strong> settings."
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-woo-ajax.php:33
+msgid "error"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-woo-ajax.php:37
+msgid "Params invalid"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-woo-ajax.php:46
+msgid "course is invalid"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-woo-ajax.php:57
+#: learnpress-woo-payment/templates/view-cart.php:18
+msgid "View cart"
+msgstr ""
+
+#: learnpress-woo-payment/incs/class-lp-woo-ajax.php:71
+msgid "You cannot add this course to your cart. Maybe certificate exists"
+msgstr ""
+
+#: learnpress-woo-payment/incs/functions.php:49
+msgid "Course"
+msgstr ""
+
+#: learnpress-woo-payment/incs/functions.php:165
+msgid "Deleted"
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:284
+msgid "This order is related to LearnPress order"
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:373
+msgid "Order on"
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:452
+msgid "Checkout"
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:756
+#, php-format
+msgid ""
+"<strong>WooCommerce Payment Gateways</strong> addon for <strong>"
+"LearnPress</strong> requires <a href=\"%s\">WooCommerce</a> plugin is "
+"installed."
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:762
+#, php-format
+msgid ""
+"<strong>WooCommerce</strong> addon version %s requires <strong>"
+"LearnPress</strong> version %s or higher"
+msgstr ""
+
+#: learnpress-woo-payment/incs/load.php:769
+msgid ""
+"<strong>WooCommerce</strong> add for LearnPress is not compatible with "
+"WooCommerce 3.0.0. Please temporary deactivate it. We are working for an "
+"update. We will try to finish it soon."
+msgstr ""
+
+#: learnpress-woo-payment/incs/admin/course.php:37
+msgid "Global"
+msgstr ""
+
+#: learnpress-woo-payment/incs/admin/course.php:38
+msgid "Yes"
+msgstr ""
+
+#: learnpress-woo-payment/incs/admin/course.php:39
+msgid "No"
+msgstr ""
+
+#: learnpress-woo-payment/incs/admin/course.php:43
+msgid "Tax"
+msgstr ""
+
+#: learnpress-woo-payment/incs/admin/course.php:48
+msgid "Enable taxes"
+msgstr ""
+
+#. Name of the plugin
+msgid "LearnPress - WooCommerce Payment Methods Integration"
+msgstr ""
+
+#. Description of the plugin
+msgid "Using the payment system provided by WooCommerce."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://thimpress.com/product/woocommerce-add-on-for-learnpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
